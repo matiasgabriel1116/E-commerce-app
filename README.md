@@ -72,9 +72,9 @@ NOTE: Its tries to stimulate a mock buy-sell cycle as their is no any Payment Ga
 
 Here are some Illustration of App Screens
 
-| ![](illustrations/home_screen.png) | ![](illustrations/home_screen_drawer.png) | ![](illustrations/search_result.png) |
-| :--------------------------------: | :---------------------------------------: | :----------------------------------: |
-|            Home Screen             |            Home Screen Drawer             |            Search Result             |
+| ![](illustrations/home_screen.png) | ![](illustrations/search_result.png) |
+| :--------------------------------: | :----------------------------------: |
+|            Home Screen             |            Search Result             |
 
 | ![](illustrations/product_details_1.png) | ![](illustrations/product_details_2.png) | ![](illustrations/category_product.png) |
 | :--------------------------------------: | :--------------------------------------: | :-------------------------------------: |
@@ -92,9 +92,9 @@ Here are some Illustration of App Screens
 | :----------------------------------: | :----------------------------: | :----------------------------: |
 |        Product Review Dialog         |         Sign In Screen         |         Sign Up Screen         |
 
-| ![](illustrations/forgot_password.png) | ![](illustrations/change_display_name.png) | ![](illustrations/change_display_picture.png) |
-| :------------------------------------: | :----------------------------------------: | :-------------------------------------------: |
-|         Forgot Password Screen         |         Change Display Name Screen         |         Change Display Picture Screen         |
+| ![](illustrations/forgot_password.png) | ![](illustrations/change_display_name.png) |
+| :------------------------------------: | :----------------------------------------: |
+|         Forgot Password Screen         |         Change Display Name Screen         |
 
 | ![](illustrations/change_email.png) | ![](illustrations/change_password.png) | ![](illustrations/change_phone.png) |
 | :---------------------------------: | :------------------------------------: | :---------------------------------: |
